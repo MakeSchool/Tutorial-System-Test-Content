@@ -1,4 +1,4 @@
-You are here because you want to learn how to make an iPhone game, make that game, and get it published.
+You are here to learn.
 
 We are here because we know you can do it. We've helped dozens of developers - from high school students to passionate indies far out of college - learn how to make iOS games and published their games. We'll do it for you too and the process is simple: follow these tutorials, start building your own awesome game, and then contact publish@makegameswith.us.
 
