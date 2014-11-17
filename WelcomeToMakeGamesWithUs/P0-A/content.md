@@ -1,3 +1,7 @@
+---
+Meta: meta
+---
+
 #Another Page
 
 Yeah!
