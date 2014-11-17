@@ -1,5 +1,6 @@
 ---
-Meta: meta
+title: Create your first Project
+slug: 1
 ---
 
 #Another Page
