@@ -1,3 +1,8 @@
+---
+title: Create your first Project
+slug: create-first-project
+---
+
 Step 1: Create a new Project in Xcode
 -----------------------------------------
 Open Xcode and select File->New->Project... from the top bar:
