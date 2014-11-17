@@ -1,3 +1,8 @@
+---
+title: Create your first Project
+slug: new-page
+---
+
 #Another Page
 
 Yeah!
