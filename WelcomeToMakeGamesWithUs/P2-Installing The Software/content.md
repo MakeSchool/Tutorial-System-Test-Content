@@ -1,3 +1,8 @@
+---
+title: Installing the Software
+slug: installing-software
+---
+
 Step 1: Get Xcode
 -----------------
 Xcode is to writing apps for iPhone what a word processor is to writing essays. It will format your code, check it for errors, and run it for you. If you already have Xcode, make sure it is version 4.2 or later. Earlier versions won't work. 
